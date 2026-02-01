@@ -16,5 +16,9 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/awu123-create/awu123-create/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awu123-create/awu123-create/output/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awu123-create/awu123-create/output/snake-light.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/awu123-create/awu123-create/output/snake.svg">
+  </picture>
 </div>
