@@ -8,8 +8,7 @@
 - 📫 联系我：zzy060103@gmail.com
 
 ## 📊 我的 GitHub 数据
-<!-- 自动生成的 GitHub 统计卡片 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awu123-create&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awu123-create&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
+  <img src="./profile/stats.svg" alt="Stats">
+  <img src="./profile/top-langs.svg" alt="Top Languages">
 </div>
