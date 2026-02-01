@@ -3,7 +3,7 @@
 💻 Back-end Developer | 🚀 Golang enthusiasts | 🎮 Game enthusiast
 
 ## 📌 关于我
-- 🔭 目前专注于：Golang后端开发
+- 🔭 目前专注于：Golang后端开发学习
 - 🌱 学习中：数据库，Redis
 - 📫 联系我：zzy060103@gmail.com
 
