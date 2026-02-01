@@ -12,3 +12,9 @@
   <img src="./profile/stats.svg" alt="Stats">
   <img src="./profile/top-langs.svg" alt="Top Languages">
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/awu123-create/awu123-create/output/snake.svg" alt="Snake animation" />
+</div>
